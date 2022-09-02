@@ -1,0 +1,9 @@
+\providecommand \autonum@processReference [2]{}
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Теорема о связи распределений в экспонентном семействе (Бернштейн фон Мизес)}{2}%
+\contentsline {subsection}{\numberline {1.1}Асимптотическая нормальность}{2}%
+\contentsline {subsection}{\numberline {1.2}Теорема Бернштейна фон Мизеса}{2}%
+\contentsline {section}{\numberline {2}Сложность моделей}{5}%
+\contentsline {subsection}{\numberline {2.1}Колмогоровская сложность моделей}{5}%
+\contentsline {subsection}{\numberline {2.2}Колмогоровская сложность и принцип минимальной длины описания}{7}%
+\contentsline {subsection}{\numberline {2.3}Вероятностная интерпретация минимальной длины описания}{8}%
